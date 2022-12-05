@@ -1,0 +1,23 @@
+.VendingMachine {
+  padding-top: 5rem;
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.VendingMachine .Box {
+  width: 50%;
+}
+
+a {
+  color: rgb(38, 31, 99);
+  text-decoration: none;
+  padding: 3rem;
+}
+
+a:hover {
+  text-decoration: underline;
+}
